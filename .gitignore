@@ -43,3 +43,6 @@ dist/
 # Local banking data
 # Uncomment this if you don't want to upload user account data
 data/accounts.json
+
+# Private project documentation
+About.md
