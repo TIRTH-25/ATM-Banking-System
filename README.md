@@ -225,8 +225,11 @@ ATM-Banking-System/
 - Role-based administrator features
 - Database persistence and secure password hashing
 
-## Author
+## 👨‍💻 Author
 
-**Tirth Patel**
+**Tirth Patel**  
+Computer Science Engineering Graduate
 
-If you found this project useful, feel free to star the repository.
+🔗 GitHub: [@TIRTH-25](https://github.com/TIRTH-25)
+
+If you found this project useful, feel free to ⭐️ the repository.
